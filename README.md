@@ -1,2 +1,2 @@
 # Data-Visualisation
-Visualization of data with matplotlib package.
+Visualization of data on Summer Olympics medals in order to test the matplotlib package
