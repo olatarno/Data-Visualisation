@@ -1,2 +1,10 @@
 # Data-Visualisation
-Visualization of data on Summer Olympics medals in order to test the matplotlib package
+Some data visualization using difrent type of plot from Seaborn:
+  -Distribution Plots
+  -Categorical Plots
+  -Regression Plots
+  -Matrix Plots
+  -Grids
+Datasates comes from: 
+  - Heart Attack Analysis: https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
+  - Students Performance in Exam: https://www.kaggle.com/spscientist/students-performance-in-exams
